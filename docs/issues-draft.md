@@ -1,5 +1,10 @@
 # Issues — uppkast fyrir GitHub Project
 
+> **Athugið:** þessi issues eru komin á GitHub sem **#3–#15**. Númerin hér að neðan (#1–#13)
+> eru uppkastsnúmer og eiga **ekki** við GitHub. Rétt vörpun:
+> #1→#3, #2→#4, #3→#5, #4→#6, #5→#7, #6→#8, #7→#10, #8→#11, #9→#13, #10→#15, #11→#14,
+> #12→#12, #13→#9. Traceability-taflan í `requirements.md` notar GitHub-númerin.
+
 Þrettán issues leidd af `requirements.md`. Hvert er nógu lítið til að hægt sé að klára það,
 yfirfara og prófa sérstaklega. Owner er skilinn eftir auður — Skref 12 segir að báðir
 hópmeðlimir eigi að eiga sýnilega vinnu.
@@ -99,8 +104,8 @@ Leit og báðar síurnar virka saman, ekki hvor í sínu lagi.
 Síða fyrir einn leik með titli, vél, útgáfuári, hönnuði, útgefanda, flokki og lýsingu.
 
 **Acceptance criteria**
-- [ ] PASS/FAIL: Allir sjö reitirnir birtast fyrir leik sem hefur þá alla (AC-03.1).
-- [ ] PASS/FAIL: Hægt er að opna leikjasíðu beint úr leitarniðurstöðum.
+        - [ ] PASS/FAIL: Allir sjö reitirnir birtast fyrir leik sem hefur þá alla (AC-03.1).
+        - [ ] PASS/FAIL: Hægt er að opna leikjasíðu beint úr leitarniðurstöðum.
 
 ---
 

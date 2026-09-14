@@ -183,11 +183,12 @@ _Skref 8 — gefið hverri hugmynd einkunn frá 1 til 5._
 
 | Atriði | Hugmynd 1 | Hugmynd 2 | Hugmynd 3 | Hugmynd 4 |
 |:--|:-:|:-:|:-:|:-:|
-| Gagnleg fyrir notanda | | | | |
-| Nýtir gögnin vel | | | | |
-| Áhugaverð | | | | |
-| Raunhæf | | | | |
-| Svigrúm til að þróa áfram | | | | |
+| Gagnleg fyrir notanda | 3 | 3 | **5** | 2 |
+| Nýtir gögnin vel | 4 | 4 | **4** | 3 |
+| Áhugaverð | 2 | 5 | **4** | 5 |
+| Raunhæf | 5 | 3 | **3** | 4 |
+| Svigrúm til að þróa áfram | 2 | 3 | **5** | 2 |
+| **Samtals** | **16** | **18** | **21** | **16** |
 
 ---
 
@@ -227,7 +228,7 @@ _Skref 9._
 | [x] | Við skilgreindum nokkra mögulega notendur | 5 skráðir, einn valinn |
 | [x] | Við bjuggum til þrjár ólíkar hugmyndir | Við erum með fjórar |
 | [ ] | Hver hugmynd hefur notanda, vandamál, gögn, flæði og áhættu | „Af hverju gott verkefni“ vantar í allar fjórar |
-| [ ] | Við bárum hugmyndirnar saman | Einkunnataflan hér að neðan er óútfyllt |
+| [x] | Við bárum hugmyndirnar saman | Hugmynd 3 hæst með 21 af 25 |
 | [ ] | Við fengum feedback frá öðrum hópi | Krefst annars hóps |
 | [x] | Við völdum eina hugmynd og rökstuddum valið | Rökin mega vera sterkari — sjá Skref 10 |
 | [x] | Við skrifuðum skýra verkefnasetningu | Í `product-brief.md` |
